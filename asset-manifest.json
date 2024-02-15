@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Landing-Page/static/css/main.524d008b.css",
+    "main.js": "/Landing-Page/static/js/main.56919e53.js",
+    "static/js/787.9be7febc.chunk.js": "/Landing-Page/static/js/787.9be7febc.chunk.js",
+    "static/media/icon.png": "/Landing-Page/static/media/icon.75719d7ae7f14ca4a852.png",
+    "static/media/question_9.png": "/Landing-Page/static/media/question_9.caa904ab616633152c57.png",
+    "static/media/question_4.png": "/Landing-Page/static/media/question_4.f515081d8aa21e5539c5.png",
+    "static/media/question_7.png": "/Landing-Page/static/media/question_7.7a1cf507c3cb608b65fc.png",
+    "static/media/question_5.png": "/Landing-Page/static/media/question_5.efd33c227354594d55fd.png",
+    "static/media/question_1.png": "/Landing-Page/static/media/question_1.62d48b54ac01b8817f31.png",
+    "static/media/question_10.png": "/Landing-Page/static/media/question_10.27cd86d1c8e4f3c92dd7.png",
+    "static/media/question_3.png": "/Landing-Page/static/media/question_3.47f0e457032d5c7e4aaf.png",
+    "static/media/question_6.png": "/Landing-Page/static/media/question_6.3cb979f8e3d48a54bd1c.png",
+    "static/media/question_2.png": "/Landing-Page/static/media/question_2.3619ec7a9b6de66f4fba.png",
+    "static/media/question_8.png": "/Landing-Page/static/media/question_8.a1d1fb7efc720a318437.png",
+    "index.html": "/Landing-Page/index.html",
+    "main.524d008b.css.map": "/Landing-Page/static/css/main.524d008b.css.map",
+    "main.56919e53.js.map": "/Landing-Page/static/js/main.56919e53.js.map",
+    "787.9be7febc.chunk.js.map": "/Landing-Page/static/js/787.9be7febc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.524d008b.css",
+    "static/js/main.56919e53.js"
+  ]
+}
