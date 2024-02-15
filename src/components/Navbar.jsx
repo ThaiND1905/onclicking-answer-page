@@ -20,6 +20,7 @@ export default function Navbar({ changeTheme, currentTheme }) {
             (<MdClose onClick={() => setNavState(false)}/>)
             :(<GiHamburger onClick={() => setNavState(true)}/>)
             }
+            
           </div>
           <div className="mode" onClick={changeTheme}>
             {currentTheme === "light" ? (
